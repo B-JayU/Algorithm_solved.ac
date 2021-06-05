@@ -22,6 +22,12 @@
         <td> 순환... %(나머지 연산자) 고려
       </tr>  
     <tr>
+    <tr>
+        <td>2875
+        <td><a href="https://www.acmicpc.net/problem/2875">대회 or 인턴</a>
+        <td> 문제 조건에 대한 수학적 접근법
+      </tr>  
+    <tr>
         
   </body>
 </html>
