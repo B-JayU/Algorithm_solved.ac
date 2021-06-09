@@ -17,7 +17,11 @@
         <td><a href="https://www.acmicpc.net/problem/2231">분해합</a>
         <td> 생성자 숫자 찾기, 반복문 사용하지 않는 풀이법(?)
       </tr>
-        
+      <tr>
+        <td>2798
+        <td><a href="https://www.acmicpc.net/problem/2798">블랙잭</a>
+        <td> brute force 기법 (첫번째 문제)
+      </tr>  
   </body>
 </html>
   
