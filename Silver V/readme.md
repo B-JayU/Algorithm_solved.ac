@@ -20,6 +20,10 @@
         <td>1181
         <td><a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기
         <td> Time Complexity 줄이기
+      <tr>
+        <td>2609
+        <td><a href="https://www.acmicpc.net/problem/2609">최대공약수오 최소공배수
+        <td> 최대공약수 GCD
   </body>
 </html>
   
