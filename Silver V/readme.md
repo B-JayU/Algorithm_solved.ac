@@ -22,8 +22,16 @@
         <td> Time Complexity 줄이기
       <tr>
         <td>2609
-        <td><a href="https://www.acmicpc.net/problem/2609">최대공약수오 최소공배수
+        <td><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수
         <td> 최대공약수 GCD
+      <tr>
+        <td>2781
+        <td><a href="https://www.acmicpc.net/problem/2781">수 정렬하기 2
+        <td> counting sort(), 정렬방법과 시간복잡도
+      <tr>
+        <td>10814
+        <td><a href="https://www.acmicpc.net/problem/10814">나이순 정렬
+        <td> 비교, 정렬    
   </body>
 </html>
   
