@@ -31,7 +31,11 @@
       <tr>
         <td>10814
         <td><a href="https://www.acmicpc.net/problem/10814">나이순 정렬
-        <td> 비교, 정렬    
+        <td> 비교, 정렬
+     <tr>
+        <td>1920
+        <td><a href="https://www.acmicpc.net/problem/1920">수 찾기
+        <td> 탐색 알고리즘(선형, 이진, 해쉬)
   </body>
 </html>
   
