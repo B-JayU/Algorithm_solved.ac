@@ -27,6 +27,11 @@
         <td><a href="https://www.acmicpc.net/problem/9375">패션와 신해빈
         <td>조합문제... 문제를 왜 못하니
       </tr>
+      <tr>
+        <td>2579
+        <td><a href="https://www.acmicpc.net/problem/2579">계단 오르기
+        <td>DP, 연속된 3개의 계단을 밟으면 안된다.
+      </tr>
     </table>   
   </body>
 </html>
