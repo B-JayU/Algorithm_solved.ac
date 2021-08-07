@@ -32,6 +32,11 @@
         <td><a href="https://www.acmicpc.net/problem/2579">계단 오르기
         <td>DP, 연속된 3개의 계단을 밟으면 안된다.
       </tr>
+      <tr>
+        <td>2579
+        <td><a href="https://www.acmicpc.net/problem/2579">계단 오르기
+        <td>DP, 연속된 3개의 계단을 밟으면 안된다.
+      </tr>   
     </table>   
   </body>
 </html>
