@@ -21,7 +21,13 @@
         <td>1931
         <td><a href="https://www.acmicpc.net/problem/1931">회의실배정
         <td>Greedy algorithm - 종료시간을 기준으로 정렬해서 최종시점까지 가장 많은 회의를 개최할 수 있도록 할 것
-      </tr>    
+      </tr>
+      <tr>
+        <td>1931
+        <td><a href="https://www.acmicpc.net/problem/11279">최대 힙
+        <td>Java Library 활용하기 - priority queue 공부하기
+      </tr>
+      
     </table>   
   </body>
 </html>
