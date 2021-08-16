@@ -22,6 +22,11 @@
         <td><a href="https://www.acmicpc.net/problem/1620">나는야 포켓몬 마스터 이다솜
         <td>딕셔너리, HashMap을 이용하기, key->value 출력하기 value->key출력하기
       </tr>
+      <tr>
+        <td>1764
+        <td><a href="https://www.acmicpc.net/problem/1764">듣보잡
+        <td> set, HashSet, List, ArrayList, Collection 공부하기
+      </tr>    
     </table>   
   </body>
 </html>
