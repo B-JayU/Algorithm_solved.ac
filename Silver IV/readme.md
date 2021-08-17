@@ -26,7 +26,8 @@
         <td>1764
         <td><a href="https://www.acmicpc.net/problem/1764">듣보잡
         <td> set, HashSet, List, ArrayList, Collection 공부하기
-      </tr>    
+      </tr>
+          
     </table>   
   </body>
 </html>
