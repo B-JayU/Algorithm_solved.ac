@@ -27,7 +27,11 @@
         <td><a href="https://www.acmicpc.net/problem/11279">최대 힙
         <td>Java Library 활용하기 - priority queue 공부하기
       </tr>
-      
+      <tr>
+        <td>11724
+        <td><a href="https://www.acmicpc.net/problem/11724">연결 요소의 개수
+        <td>Queue, visited[]
+      </tr>
     </table>   
   </body>
 </html>
