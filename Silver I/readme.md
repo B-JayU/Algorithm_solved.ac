@@ -17,6 +17,11 @@
         <td><a href="https://www.acmicpc.net/problem/1074">Z
         <td>
       </tr>
+      <tr>
+        <td>1\697
+        <td><a href="https://www.acmicpc.net/problem/1697">숨바꼭질
+        <td>bfs, 큐, 수학적 규칙성이 아니라 있는 그대로 문제를 적용하는 방식을 취한다. 
+      </tr>
     </table>   
   </body>
 </html>
