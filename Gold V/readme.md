@@ -13,7 +13,7 @@
         <td> Consideration
       </th>
       <tr>
-        <td>1541
+        <td>7662
         <td><a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐
         <td>Collections의 TreeMap 활용, 메서드 공부하기
       </tr>
