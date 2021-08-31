@@ -17,6 +17,11 @@
         <td><a href="https://www.acmicpc.net/problem/7662">이중 우선순위 큐
         <td>Collections의 TreeMap 활용, 메서드 공부하기
       </tr>
+      <tr>
+        <td>14500
+        <td><a href="https://www.acmicpc.net/problem/14500">테트로미노
+        <td>DFS 알고리즘과 "+"모양에서 날개를 하나 제거하기
+      </tr>
     </table>   
   </body>
 </html>
