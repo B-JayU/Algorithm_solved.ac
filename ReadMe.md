@@ -27,6 +27,8 @@
     <td>완전 탐색</td>
     <td> <a href="https://www.acmicpc.net/problem/15651">N과 M(3)</a>, 
       <a href="https://www.acmicpc.net/problem/15649">N과 M(1)</a>,
+      <a href="https://www.acmicpc.net/problem/15652">N과 M(4)</a>,
+      <a href="https://www.acmicpc.net/problem/15650">N과 M(2)</a>
     </td>
     <td> </td>
 </div> 
