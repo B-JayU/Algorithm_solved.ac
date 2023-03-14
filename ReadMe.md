@@ -31,4 +31,12 @@
       <a href="https://www.acmicpc.net/problem/15650">N과 M(2)</a>
     </td>
     <td> </td>
+  </tr>
+  <tr>
+    <td>2023-03-15</td>
+    <td>완전 탐색 응용</td>
+    <td>
+    </td>
+    <td> </td>
+  </tr>
 </div> 
