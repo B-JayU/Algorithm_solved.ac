@@ -41,4 +41,10 @@
     </td>
     <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce_apply">제출코드</td>
   </tr>
+  <tr>
+    <td> </td>
+    <td>백트래킹 연습문제</td>
+    <td> </td>
+    <td> </td>
+  </tr>
 </div> 
