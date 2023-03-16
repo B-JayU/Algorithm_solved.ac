@@ -5,7 +5,7 @@
 
 ## TO DO LIST
 
-- [ ] 완전탐색
+- [x] 완전탐색
 - [ ] 다양한 정렬 
 - [ ] 이분탐색
 - [ ] 두 포인터
@@ -30,7 +30,7 @@
       <a href="https://www.acmicpc.net/problem/15652">N과 M(4)</a>,
       <a href="https://www.acmicpc.net/problem/15650">N과 M(2)</a>
     </td>
-    <td> </td>
+    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce">제출코드</td>
   </tr>
   <tr>
     <td>2023-03-15</td>
@@ -39,6 +39,6 @@
       <a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>,
       <a href="https://www.acmicpc.net/problem/9663">N-Queen</a>,
     </td>
-    <td> </td>
+    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce_apply">제출코드</td>
   </tr>
 </div> 
