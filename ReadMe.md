@@ -5,7 +5,7 @@
 
 ## TO DO LIST
 
-- [x] 완전탐색
+- [ ] 완전탐색
 - [ ] 다양한 정렬 
 - [ ] 이분탐색
 - [ ] 두 포인터
@@ -52,6 +52,8 @@
     <td>정렬</td>
     <td> 
       <a href="https://www.acmicpc.net/problem/10825">국영수</a>,
+      <a href="https://www.acmicpc.net/problem/1015">수열 정렬</a>,
+      <a href="https://www.acmicpc.net/problem/11652">카드</a>
     </td>
     <td> </td>
   </tr>
