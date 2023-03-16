@@ -36,6 +36,8 @@
     <td>2023-03-15</td>
     <td>완전 탐색 응용</td>
     <td>
+      <a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>,
+      <a href="https://www.acmicpc.net/problem/9663">N-Queen</a>,
     </td>
     <td> </td>
   </tr>
