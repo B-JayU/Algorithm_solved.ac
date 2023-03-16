@@ -50,7 +50,9 @@
   <tr>
     <td>2023-03-16</td>
     <td>정렬</td>
-    <td> </td>
+    <td> 
+      <a href="https://www.acmicpc.net/problem/10825">국영수</a>,
+    </td>
     <td> </td>
   </tr>
 </div> 
