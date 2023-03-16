@@ -37,7 +37,7 @@
     <td>완전 탐색 응용</td>
     <td>
       <a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>,
-      <a href="https://www.acmicpc.net/problem/9663">N-Queen</a>,
+      <a href="https://www.acmicpc.net/problem/9663">N-Queen</a>
     </td>
     <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce_apply">제출코드</td>
   </tr>
