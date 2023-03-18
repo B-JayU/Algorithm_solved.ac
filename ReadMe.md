@@ -5,8 +5,8 @@
 
 ## TO DO LIST
 
-- [ ] 완전탐색
-- [ ] 다양한 정렬 
+- [X] 완전탐색
+- [X] 다양한 정렬 
 - [ ] 이분탐색
 - [ ] 두 포인터
 - [ ] 그래프와 탐색
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td> </td>
-    <td> 백트래킹 연습문제 </td>
+    <td> 연습문제 </td>
     <td> </td>
     <td> </td>
   </tr>
@@ -53,8 +53,15 @@
     <td> 
       <a href="https://www.acmicpc.net/problem/10825">국영수</a>,
       <a href="https://www.acmicpc.net/problem/1015">수열 정렬</a>,
-      <a href="https://www.acmicpc.net/problem/11652">카드</a>
+      <a href="https://www.acmicpc.net/problem/11652">카드</a>,
+      <a href="https://www.acmicpc.net/problem/15970">화살표 그리기</a>
     </td>
+    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/SortApplication">제출코드</td> 
+  </tr>
+  <tr>
+    <td> </td>
+    <td> 연습문제 </td>
+    <td> </td>
     <td> </td>
   </tr>
 </div> 
