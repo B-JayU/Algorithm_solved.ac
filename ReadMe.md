@@ -64,4 +64,12 @@
     <td> </td>
     <td> </td>
   </tr>
+  <tr>
+    <td>2023-03-16</td>
+    <td> 이분탐색 /td>
+    <td> 
+      <a href="https://www.acmicpc.net/problem/7795">먹을 것인가 먹힐 것인가</a>
+    </td>
+    <td></td> 
+  </tr>
 </div> 
