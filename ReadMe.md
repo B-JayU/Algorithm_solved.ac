@@ -65,11 +65,24 @@
     <td> </td>
   </tr>
   <tr>
-    <td>2023-03-16</td>
-    <td> 이분탐색 /td>
+    <td>2023-03-18</td>
+    <td> 이분탐색 </td>
     <td> 
-      <a href="https://www.acmicpc.net/problem/7795">먹을 것인가 먹힐 것인가</a>
+      <a href="https://www.acmicpc.net/problem/7795">먹을 것인가 먹힐 것인가</a>,
+      <a href="https://www.acmicpc.net/problem/2470">두 용액</a>,
+      <a href="https://www.acmicpc.net/problem/2110">공유기 설치</a>
     </td>
-    <td></td> 
+    <td> </td> 
+  </tr>
+  <tr>
+    <td> </td>
+    <td> 연습문제 </td>
+    <td> 
+      <a href="https://www.acmicpc.net/problem/1654">랜선자르기</a>,
+      <a href="https://www.acmicpc.net/problem/2512">예산</a>,
+      <a href="https://www.acmicpc.net/problem/2343">기타레슨</a>,
+      <a href="https://www.acmicpc.net/problem/6236">용돈관리</a>
+    </td>
+    <td> </td> 
   </tr>
 </div> 
