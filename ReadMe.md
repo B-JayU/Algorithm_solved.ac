@@ -7,8 +7,8 @@
 
 - [X] 완전탐색
 - [X] 다양한 정렬 
-- [ ] 이분탐색
-- [ ] 두 포인터
+- [X] 이분탐색
+- [X] 두 포인터
 - [ ] 그래프와 탐색
 - [ ] 트리
 - [ ] 위상정렬
@@ -30,7 +30,7 @@
       <a href="https://www.acmicpc.net/problem/15652">N과 M(4)</a>,
       <a href="https://www.acmicpc.net/problem/15650">N과 M(2)</a>
     </td>
-    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce">제출코드</td>
+    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce">제출코드</a></td>
   </tr>
   <tr>
     <td>2023-03-15</td>
@@ -39,7 +39,7 @@
       <a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>,
       <a href="https://www.acmicpc.net/problem/9663">N-Queen</a>
     </td>
-    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce_apply">제출코드</td>
+    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/BruteForce_apply">제출코드</a></td>
   </tr>
   <tr>
     <td> </td>
@@ -56,7 +56,7 @@
       <a href="https://www.acmicpc.net/problem/11652">카드</a>,
       <a href="https://www.acmicpc.net/problem/15970">화살표 그리기</a>
     </td>
-    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/SortApplication">제출코드</td> 
+    <td><a href="https://github.com/YourBlueJustworks/Algorithm_solved.ac/tree/main/CodingTest/src/SortApplication">제출코드</a></td> 
   </tr>
   <tr>
     <td> </td>
@@ -86,7 +86,7 @@
     <td> </td> 
   </tr>
   <tr>
-    <td> </td>
+    <td> 2023-03-20 </td>
     <td> 두 포인터 </td>
     <td> 
       <a href="https://www.acmicpc.net/problem/1806">부분합</a>,
@@ -99,4 +99,23 @@
     </td>
     <td> </td> 
   </tr>
+  <tr>
+    <td> 2023-03-21</td>
+    <td> 두 포인터 응용 </td>
+    <td>
+        <a href="https://www.acmicpc.net/problem/13144">List of unique Numbers</a>,
+<a href="https://www.acmicpc.net/problem/1253">좋다</a>,
+<a href="https://www.acmicpc.net/problem/2473">세 용액</a>,
+<a href="https://www.acmicpc.net/problem/16472">고냥이</a>,
+    </td>
+    <td> </td> 
+  </tr>
+  <tr>
+    <td> </td>
+    <td> 연습문제 </td>
+    <td>
+    </td>
+    <td> </td> 
+  </tr>
+</table>
 </div> 
